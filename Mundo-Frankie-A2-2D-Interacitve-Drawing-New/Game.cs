@@ -162,90 +162,10 @@ namespace MohawkGame2D
             Draw.Circle(140, 400, 20);
         }
 
-        void DrawBloodMoon()
-        {
-            Draw.FillColor = BloodMoon;
-            Draw.Circle(300, 400, 200);
-
-            Draw.LineSize = 0;
-            Draw.FillColor = BloodMoonDark;
-            Draw.Circle(250, 350, 20);
-
-            Draw.LineSize = 0;
-            Draw.FillColor = BloodMoonDark;
-            Draw.Circle(210, 390, 30);
-
-            Draw.LineSize = 0;
-            Draw.FillColor = BloodMoonDark;
-            Draw.Circle(257, 300, 35);
-
-            Draw.LineSize = 0;
-            Draw.FillColor = BloodMoonDark;
-            Draw.Circle(250, 400, 20);
-
-            Draw.LineSize = 0;
-            Draw.FillColor = BloodMoonDark;
-            Draw.Circle(270, 450, 20);
-
-            Draw.LineSize = 0;
-            Draw.FillColor = BloodMoonDark;
-            Draw.Circle(250, 350, 20);
-
-            Draw.LineSize = 0;
-            Draw.FillColor = BloodMoonDark;
-            Draw.Circle(290, 490, 20);
-
-            Draw.LineSize = 0;
-            Draw.FillColor = BloodMoonDark;
-            Draw.Circle(207, 250, 20);
-
-            Draw.LineSize = 0;
-            Draw.FillColor = BloodMoonDark;
-            Draw.Circle(250, 350, 20);
-
-            Draw.LineSize = 0;
-            Draw.FillColor = BloodMoonDark;
-            Draw.Circle(250, 350, 20);
-
-            Draw.LineSize = 0;
-            Draw.FillColor = BloodMoonDark;
-            Draw.Circle(450, 350, 20);
-
-            Draw.LineSize = 0;
-            Draw.FillColor = BloodMoonDark;
-            Draw.Circle(400, 490, 20);
-
-            Draw.LineSize = 0;
-            Draw.FillColor = BloodMoonDark;
-            Draw.Circle(428, 300, 20);
-
-            Draw.LineSize = 0;
-            Draw.FillColor = BloodMoonDark;
-            Draw.Circle(360, 360, 60);
-
-            Draw.LineSize = 0;
-            Draw.FillColor = BloodMoonDark;
-            Draw.Circle(250, 560, 20);
-
-            Draw.LineSize = 0;
-            Draw.FillColor = BloodMoonDark;
-            Draw.Circle(360, 560, 20);
-
-            Draw.LineSize = 0;
-            Draw.FillColor = BloodMoonDark;
-            Draw.Circle(210, 488, 20);
-
-            Draw.LineSize = 0;
-            Draw.FillColor = BloodMoonDark;
-            Draw.Circle(180, 310, 20);
-
-            Draw.LineSize = 0;
-            Draw.FillColor = BloodMoonDark;
-            Draw.Circle(140, 400, 20);
+        
 
 
-
-        }
+        
 
 
       
